@@ -1,5 +1,2 @@
-def findLen(str):
-    counter = 0    
-    for i in str:
-        counter += 1
-    return counter
+str1 = "devopsassesment"
+print("TNumber of letters in the word devopsassesment is ", len(str1))
